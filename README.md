@@ -19,3 +19,7 @@ A web-based application to design, visualize, and analyze option trading strateg
 ### Monte Carlo Option Pricing
 - Python implementation of Monte Carlo simulation for option pricing.  
 - Supports both European Call and Put options.  
+
+## 🌐 Live Demo
+
+Check out the live project here: [https://option-strategies-market-analysis.vercel.app/](https://option-strategies-market-analysis.vercel.app/)
